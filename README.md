@@ -14,5 +14,5 @@ Interactive command-line interface
 
 Input validation (prompts again if the choice is invalid)
 
-Provides instant conversion results
+Provides instant conversion results .
 
