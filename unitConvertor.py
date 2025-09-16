@@ -28,4 +28,4 @@ for i in list :
     print(f" \n...............Converting kilometer to miles................ \n \n Miles = {Kilometers * 0.621371} miles\n")
     break 
   else : 
-     print("Something want Wrong, Please try again Later ⚠️⚠️⛔⛔")
+     print("Something want Wrong, Please try again Later ⚠️⛔")
